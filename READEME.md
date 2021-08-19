@@ -1,1 +1,1 @@
-This is James' first git porject!
+This is James' first git project!
